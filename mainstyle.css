@@ -1,0 +1,129 @@
+a{ 		
+		color:white;
+		font-size:20px;
+		padding:10px 15px;
+		text-decoration:none;
+	}
+a:visited{ 	
+		color:white;
+		font-size:20px;
+		padding:10px 15px;
+		text-decoration:none;
+	}
+a:hover{ 
+		color:#8bb7d4;
+		font-size:22px;
+		font-weight:bolder;
+		text-decoration: overline underline;
+		text-transform:uppercase;
+	}
+	
+a#backtotop{ 		
+		color:grey;
+		font-size:20px;
+		padding:10px 15px;
+		text-decoration:none;
+		border:2px dashed grey;
+	}	
+a#backtotop:visited{ 		
+		color:grey;
+		font-size:20px;
+		padding:10px 15px;
+		text-decoration:none;
+		border:2px dashed grey;
+	}	
+a#backtotop:hover
+}	
+
+div#navigation{
+	margin-left:300px;
+        margin-right:300px;
+	width:2000px;
+	background-color:Pink;
+	padding:10px;
+	}	
+div#header{
+	background:url(HEADERR.png) no-repeat;		
+	line-height:150px;
+	width:1600px;
+	height:750px;
+	margin-top:0px;
+	margin-left:500px;		
+	margin-bottom:0px;
+	padding:70 0 0 20; 
+	}
+div#content{
+	background-color:transparent;
+	font-size:20px;
+	text-align:center;
+	line-height:25px;
+	width:2000px;		
+	margin-top:10px;
+        margin-left:300px;
+        align:center;
+	}	
+img{	
+	height:250px;	
+        margin-bottom:10px;
+        margin-right:10px;
+        margin-top:10px;
+}
+body{
+        background:url(Madrasahgym.png);
+        Repeat: no-repeat;
+        Background-attachment:fixed;
+	font-family:Montserrat;
+	padding-top:0px;
+	margin-top:0px;
+	}	
+
+h1,h2{
+	background-color:pink;
+	padding:10px 15px;
+        margin-left:0px;
+        align:center;
+	}
+	
+		
+p{
+	text-align:justify;
+	line-height:40px;
+	}
+p#mainpar{		
+	font-size:35px;	
+        color:#f8B88B;
+	font-weight:bolder;
+	text-indent:60px;
+        magin-left:10px;
+	}
+p.subpar{
+	font-size:20px;
+	}
+	
+.navbar {
+width:80%;
+Background-color:#093A3E;
+overflow: auto;
+Padding:5px 5px 5px;
+margin-left:350px;
+margin-top:10px;
+font-family: 'Quicksand', sans-serif;
+}
+.navbar a {
+Float:right;
+padding: 12px;
+color:#D7DEDC;
+text-decoration: none;
+font-size: 17px;
+}
+.navbar a:hover {
+background-color: #6c8586;
+}
+@media screen and (max-width: 500px) {
+.navbar a {
+float: none;
+display: block;
+}
+
+
+
